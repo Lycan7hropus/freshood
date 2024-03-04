@@ -4,7 +4,7 @@
 
 Goal of **Fresh Near Me** is to connect consumers directly with local producers, making it easy for everyone to access and enjoy fresh, locally-grown food. This platform is about supporting local communities and promoting healthier, sustainable food choices.
 
-![feshood-presentation.png](assets%2Ffeshood-presentation.png)
+![feshood-presentation](https://github.com/Lycan7hropus/freshood/assets/83671766/26da7e61-c9c9-4f1a-9f28-0b31c9fa590c)
 
 ### Why fresh near me?
 Michigan State University [article](https://www.canr.msu.edu/news/seven-benefits-of-local-food) underscores the advantages of consuming locally sourced food:
